@@ -1,0 +1,7 @@
+path: C:/Users/rudra/OneDrive/Desktop/DESKTOP/STUDY/KJSCE/INTERNSHIP/INHOUSE/2_NINAD MEHENDALE SIR/DAY-6/BottleDetection/dataset
+
+train: images/bottle
+val: images/bottle
+
+names:
+  0: bottle
